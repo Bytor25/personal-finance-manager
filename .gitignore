@@ -1,0 +1,19 @@
+# Datos personales
+privado/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+.pytest_cache/
+
+
+# Instalador generado
+instalador/
+*.exe
